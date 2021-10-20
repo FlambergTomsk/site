@@ -6,7 +6,7 @@ export default {
   target: 'static',
   mode: 'spa',
   router: {
-    base: '/resumeMy/',
+    base: '/site/',
   },
   head: {
     title: 'Resume',
