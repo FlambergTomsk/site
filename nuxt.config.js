@@ -6,10 +6,10 @@ export default {
   target: 'static',
   mode: 'spa',
   router: {
-    base: '/resume/',
+    base: '/resumeMy/',
   },
   head: {
-    title: 'resume',
+    title: 'Resume',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
